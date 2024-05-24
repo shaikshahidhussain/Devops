@@ -4,7 +4,7 @@ Welcome to the DevOps Learning Repository! 🚀 This repository serves as a comp
 Introduction
 Hello fellow learners! 👋 Whether you're new to DevOps or looking to deepen your understanding, you're in the right place. This repository is curated to provide you with the knowledge and resources needed to excel in the field of DevOps.
 
-<h2>DAY-1</h2>
+<h2><a href="https://github.com/shaikshahidhussain/Devops/tree/main/day-1">DAY-1</h2>
 Basics of Devops
 <ul>
   <li>what is Devops?</li>
