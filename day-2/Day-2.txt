@@ -1,0 +1,22 @@
+SDLC
+  |
+  |
+1.Design             SDLC = It is defined as it is a process to design ,to develop and
+2.Development                  test and gave or to deliver High Quality project.
+3.Test
+  |
+  |
+High Quality Product
+
+
+Basicaly SDLC is a 7 step process
+           Software Development Life Cycle 
+		|		
+		|---->Planning	
+		|---->Requirement Gathering
+		|---->Designing
+		|---->Coding
+		|---->Testing
+		|---->Deployment & Installation	
+		|---->Maintenance & Upgradation
+		
