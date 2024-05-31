@@ -12,3 +12,13 @@ Basics of Devops
   <li>HOw you Introduce your self as Devops Engineeer?</li>
   <li>what is the day-day activities for these Learning course?</li>
 </ul>
+<br>
+<h2><a href="https://github.com/shaikshahidhussain/Devops/tree/main/day-2">DAY-2</h2>
+Basics of Devops
+<ul>
+  <li>what is SDLC</li>
+  <li>Devops Engineer in SDLC?</li>
+  <li>Phases od SDLC?</li>
+</ul>
+
+
