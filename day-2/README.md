@@ -19,7 +19,7 @@ This README file covers the details of the content discussed in Day 2.
 
 Welcome back to the **DevOps Zero to Hero** series. This series is designed to take you from the basics to advanced concepts in DevOps. 
 
-In this video, we will discuss the **Software Development Lifecycle (SDLC)**, its importance, and its phases. We will also explore the role of DevOps in SDLC.
+In  we will discuss the **Software Development Lifecycle (SDLC)**, its importance, and its phases. We will also explore the role of DevOps in SDLC.
 
 ## Recap of Day 1
 
