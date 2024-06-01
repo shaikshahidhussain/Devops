@@ -1,0 +1,23 @@
+                        Day- 3
+
+                VIRTUAL_MACHINE
+
+1.what is server?
+2.Physical (v/s) Virtual?
+3.Hypervisor
+4.How to create VM?
+5.Real world Example?          
+
+
+-Server is nothing but the thing where we get or upload our project in  the internet or where we deploy our project to world 
+
+-Physical is nothing but which we can feel and touch the things
+
+-Virtual is nothing but which we cant see it is virtually existed
+
+Hypervisor is the sofware that can be install VIRTUAL_MACHINEon on our space metal or in Physical server.
+ The thing it is done that it build logical seperation/logical Isolation of the server.
+ Breaking them in logically not Physically
+ examples :VMWARE,XEN
+
+VIRTUAL_MACHINE : It is nothing but creating virtual enviremnet that functions as virtual computer systems 
