@@ -21,4 +21,12 @@ Basics of Devops
   <li>Phases od SDLC?</li>
 </ul>
 
-
+<h2><a href="https://github.com/shaikshahidhussain/Devops/tree/main/day-3">DAY-3</h2>
+Basics of Devops
+<ul>
+  <li>what is server?</li>
+  <li>Physical (v/s) Virtual?</li>
+  <li>Hypervisor</li>
+  <li>How to create VM?</li>
+  <li>Real world Example?</li>
+</ul>
